@@ -3,6 +3,8 @@ An Intro to EECS via Interconnected Embedded Systems final project (game library
  - Implemented databases for scoreboards and ESP32-Server communication using SQLite through python
  - Coded the hardware controller and display using C/C++ in Arduino
  - Made website interface with HTML, CSS, and some JavaScript
+ 
+I specifically worked on the ESP32-Server communication and backend, Pong, mapping out hardware peripherals, and the website interface with HTML and CSS.
 
 Please read the write up file named [Team67_Final_Project_Writeup.html](https://github.com/fabianv1/Joe-s-Arcade-Party/blob/main/Team67_Final_Project_Writeup.html) located in the repository for full description and details of project.
 
